@@ -1,3 +1,31 @@
+# KOTTANS-FRONTED
+
+## Tasks
+- [x] [Git Basics](#git-та-github)
+
+
+## Git та GitHub
+✅ **1. Прослухайте тижні 1 і 2 курсу Introduction to Git and GitHub**
+- Week 1 — <a href="task_git_github/coursera-week1.png" target="blank" >Результат</a>
+- Week 2 — <a href="task_git_github/coursera-week2.png" target="blank" >Результат</a>
+
+✅ **2. Пройдіть наступні рівні тут learngitbranching.js.org**
+- Основи: Introduction Sequence, Ramping Up — <a href="task_git_github/learngitbranching-introduction-ramping.png" target="blank" >Результат</a>
+- Віддалені репозиторії: Push & Pull — <a href="task_git_github/learngitbranching-push-n-pull.png" target="blank" >Результат</a>
+
+✅ **3. Створіть репозиторій та назвіть його kottans-frontend**
+- Результат: [https://github.com/hisbvdis/kottans-frontend](https://github.com/hisbvdis/kottans-frontend)
+
+✅ **4. Створіть README.md для репозиторію**
+- Результат: [https://github.com/hisbvdis/kottans-frontend/blob/main/README.md](https://github.com/hisbvdis/kottans-frontend/blob/main/README.md)
+
+✅ **5. Опишіть свої враження від вивченого матеріалу.**
+- Освежил некоторые знания по Git, но часть материала не удалось понять
+
+✅ **6. Надішліть pull-request сюди Kottans/mock-repo пропонуючи зміни.**
+- Результат: [https://github.com/kottans/mock-repo/pull/1052](https://github.com/kottans/mock-repo/pull/1052)
+
+
 ## Linux CLI, and HTTP
 **> додати скріншот або додати посилання на скріншот**
 - [Скриншот 1](./task_linux_cli/1.png)
