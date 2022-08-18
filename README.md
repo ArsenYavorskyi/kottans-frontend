@@ -2,6 +2,7 @@
 
 ## Tasks
 - [x] [Git Basics](#git-та-github)
+- [x] [Linux CLI, and HTTP](#linux-cli-and-http)
 
 
 ## Git та GitHub
@@ -27,8 +28,17 @@
 
 
 ## Linux CLI, and HTTP
-**> додати скріншот або додати посилання на скріншот**
-- [Скриншот 1](./task_linux_cli/1.png)
-- [Скриншот 2](./task_linux_cli/2.png)
-- [Скриншот 3](./task_linux_cli/3.png)
-- [Скриншот 4](./task_linux_cli/4.png)
+✅ **додати скріншот або додати посилання на скріншот**
+- Quiz 1 — <a href="./task_linux_cli/1.png" target="blank" >Результат</a>
+- Quiz 2 — <a href="./task_linux_cli/2.png" target="blank" >Результат</a>
+- Quiz 3 — <a href="./task_linux_cli/3.png" target="blank" >Результат</a>
+- Quiz 4 — <a href="./task_linux_cli/4.png" target="blank" >Результат</a>
+
+✅ **перерахуйте свої міркування щодо кожного пункту завдання**
+- Linux Survival (4 modules)
+> Было полезно расширить знания использования командной строки Linux
+- HTTP: Протокол, який повинен розуміти кожний веб-розробник
+> Некоторые вещи знал. Было полезно освежить
+
+✅ **опублікувати повідомлення в course channel: Linux CLI and HTTP — #done**
+- Результат: [ссылка на сообщение](https://t.me/c/1382428271/44138)
