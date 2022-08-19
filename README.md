@@ -3,6 +3,7 @@
 ## Tasks
 - [x] [Git Basics](#git-та-github)
 - [x] [Linux CLI, and HTTP](#linux-cli-and-http)
+- [x] [Git Collaboration](#git-collaboration)
 
 
 ## Git та GitHub
@@ -42,3 +43,27 @@
 
 ✅ **опублікувати повідомлення в course channel: Linux CLI and HTTP — #done**
 - Результат: [ссылка на сообщение](https://t.me/c/1382428271/44138)
+
+
+## Git Collaboration
+
+✅ **Зробіть скріншот своїх завершених уроків**
+
+*Coursera*
+- Week 1 — <a href="task_git_collaboration/coursera-week1.png" target="blank" >Результат</a>
+- Week 2 — <a href="task_git_collaboration/coursera-week2.png" target="blank" >Результат</a>
+- Week 3 — <a href="task_git_collaboration/coursera-week3.png" target="blank" >Результат</a>
+- Week 4 — <a href="task_git_collaboration/coursera-week4.png" target="blank" >Результат</a>
+
+> Из-за английского языка материал давался тяжело
+
+*Learngitbranching*
+- Основи: Introduction Sequence, Ramping Up — <a href="task_git_collaboration/learngitbranching-introduction-ramping.png" target="blank" >Результат</a>
+- Віддалені репозиторії: Push & Pull — <a href="task_git_collaboration/learngitbranching-push-n-pull.png" target="blank" >Результат</a>
+- Основи: Переміщуємо роботу туди-сюди — <a href="task_git_collaboration/learngitbranching-moving-work-around.png" target="blank">Результат</a>
+- Основи: Переміщуємо роботу туди-сюди — <a href="task_git_collaboration/learngitbranching-to-origin-and-beyond.png" target="blank">Результат</a>
+
+> Не могу сказать, что всё понял после прохождения материала
+
+✅ **Опублікувати повідомлення в course channel**
+- Результат: [ссылка на сообщение](https://t.me/c/1382428271/46010)
