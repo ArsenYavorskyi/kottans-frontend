@@ -5,6 +5,7 @@
 - [x] [Linux CLI, and HTTP](#linux-cli-and-http)
 - [x] [Git Collaboration](#git-collaboration)
 - [x] [Intro to HTML and CSS](#intro-to-html-and-css)
+- [x] [Responsive Web Design](#responsive-web-design)
 
 
 ## Git та GitHub
@@ -79,6 +80,16 @@
 
 *Codecademy*
 - HTML & CSS — <a href="./task_html_css_intro/Codecademy.png" target="blank" >Результат</a>
-
+✅
 ✅ **опублікувати повідомлення в course channel: Intro to HTML and CSS — #done**
 - Результат: [ссылка на сообщение](https://t.me/c/1382428271/46274)
+
+
+# Responsive Web Design
+✅ **додати скріншот або додати посилання на скріншот**
+- FLEXBOX FROGGY — <a href="./task_responsive_web_design/flexbox-froggy.png" target="blank" >Результат</a>
+- GRID GARDEN — <a href="./task_responsive_web_design/grid-garden.png" target="blank" >Результат</a>
+
+✅ **перерахуйте свої міркування щодо кожного пункту завдання**
+> Flexbox и Gri — интересная тема, с которой уже знаком. 
+> Много раз уже приходилось проходить эти игры.
