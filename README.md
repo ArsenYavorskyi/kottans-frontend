@@ -80,7 +80,7 @@
 
 *Codecademy*
 - HTML & CSS — <a href="./task_html_css_intro/Codecademy.png" target="blank" >Результат</a>
-✅
+
 ✅ **опублікувати повідомлення в course channel: Intro to HTML and CSS — #done**
 - Результат: [ссылка на сообщение](https://t.me/c/1382428271/46274)
 
@@ -91,5 +91,8 @@
 - GRID GARDEN — <a href="./task_responsive_web_design/grid-garden.png" target="blank" >Результат</a>
 
 ✅ **перерахуйте свої міркування щодо кожного пункту завдання**
-> Flexbox и Gri — интересная тема, с которой уже знаком. 
+> Flexbox и Grid — интересная тема, с которой уже знаком. 
 > Много раз уже приходилось проходить эти игры.
+
+✅ **опублікувати повідомлення в course channel: Responsive Web Design — #done**
+- Результат: [ссылка на сообщение](https://t.me/c/1382428271/46283)
