@@ -4,6 +4,7 @@
 - [x] [Git Basics](#git-та-github)
 - [x] [Linux CLI, and HTTP](#linux-cli-and-http)
 - [x] [Git Collaboration](#git-collaboration)
+- [x] [Intro to HTML and CSS](#intro-to-html-and-css)
 
 
 ## Git та GitHub
@@ -67,3 +68,17 @@
 
 ✅ **Опублікувати повідомлення в course channel**
 - Результат: [ссылка на сообщение](https://t.me/c/1382428271/46010)
+
+
+## Intro to HTML and CSS
+✅ **додати скріншот або додати посилання на скріншот**
+
+*Coursera*
+- Week 1 — <a href="./task_html_css_intro/coursera-week1.png" target="blank" >Результат</a>
+- Week 2 — <a href="./task_html_css_intro/coursera-week2.png" target="blank" >Результат</a>
+
+*Codecademy*
+- HTML & CSS — <a href="./task_html_css_intro/Codecademy.png" target="blank" >Результат</a>
+
+✅ **опублікувати повідомлення в course channel: Intro to HTML and CSS — #done**
+- Результат: [ссылка на сообщение](https://t.me/c/1382428271/46274)
