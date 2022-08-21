@@ -6,6 +6,7 @@
 - [x] [Git Collaboration](#git-collaboration)
 - [x] [Intro to HTML and CSS](#intro-to-html-and-css)
 - [x] [Responsive Web Design](#responsive-web-design)
+- [x] [HTML CSS Popup](#html-css-popup)
 
 
 ## Git та GitHub
@@ -96,3 +97,14 @@
 
 ✅ **опублікувати повідомлення в course channel: Responsive Web Design — #done**
 - Результат: [ссылка на сообщение](https://t.me/c/1382428271/46283)
+
+
+## HTML CSS Popup
+✅ **app має власний спеціальний проект/репозиторій**
+- Github — [https://github.com/hisbvdis/kottans-homework-html-css-popup](https://github.com/hisbvdis/kottans-homework-html-css-popup)
+
+✅ **app опубліковано на GitHub pages**
+- Github Pages — [https://hisbvdis.github.io/kottans-homework-html-css-popup/](https://hisbvdis.github.io/kottans-homework-html-css-popup/)
+
+✅ **Для цього завдання вам знадобиться review коду**
+- Сделал PR — https://github.com/kottans/frontend-2022-homeworks/pull/247
