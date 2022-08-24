@@ -87,7 +87,7 @@
 - Результат: [ссылка на сообщение](https://t.me/c/1382428271/46274)
 
 
-# Responsive Web Design
+## Responsive Web Design
 **Додати скріншот або додати посилання на скріншот**
 - FLEXBOX FROGGY — <a href="./task_responsive_web_design/flexbox-froggy.png" target="blank" >Результат</a>
 - GRID GARDEN — <a href="./task_responsive_web_design/grid-garden.png" target="blank" >Результат</a>
