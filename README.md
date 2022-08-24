@@ -113,6 +113,11 @@
 
 ## JS Basics
 **Зробіть скріншот своїх завершених уроків**
+
+*Coursera*
+- Introduction to Javascript (Week 4) — <a href="./task_js_basics/coursera-week4.png" target="blank" >Результат</a>
+
+*FreeCodeCamp*
 - Basic JavaScript — <a href="./task_js_basics/basic-javascript.png" target="blank" >Результат</a>
 - ES6 Challenges — <a href="./task_js_basics/es6.png" target="blank" >Результат</a>
 - Basic Data Structures — <a href="./task_js_basics/basic-data-structures.png" target="blank" >Результат</a>
@@ -120,7 +125,7 @@
 - Functional Programming — <a href="./task_js_basics/functional-programming.png" target="blank" >Результат</a>
 - Algorithm Scripting Challenges — <a href="./task_js_basics/intermediate-algorithm-scripting.png" target="blank" >Результат</a>
 
-**перерахуйте свої міркування**
+**Перерахуйте свої міркування**
 > Очень интересно решать задачки с помощью функционала ES6
 
 **Опублікувати повідомлення в course channel: JS Basics — #done**
