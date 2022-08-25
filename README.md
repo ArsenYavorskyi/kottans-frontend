@@ -166,7 +166,7 @@
 > Github: [https://github.com/hisbvdis/kottans-homework-html-css-popup](https://github.com/hisbvdis/kottans-homework-html-css-popup)
 
 **App опубліковано на GitHub pages**
-> Github Pages: [https://hisbvdis.github.io/kottans-homework-html-css-popup/](https://hisbvdis.github.io/kottans-homework-html-css-popup/)
+> Github Pages: [ссылка](https://hisbvdis.github.io/kottans-frontend/pages/html-css-popup/)
 
 **Для цього завдання вам знадобиться review коду**
 > Сделал PR: https://github.com/kottans/frontend-2022-homeworks/pull/247
