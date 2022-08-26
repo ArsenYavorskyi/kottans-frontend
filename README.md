@@ -8,6 +8,7 @@
 - [x] [Responsive Web Design](#responsive-web-design)
 - [x] [HTML CSS Popup](#html-css-popup)
 - [x] [JS Basics](#js-basics)
+- [x] [DOM](#dom)
 
 
 ## Git та GitHub
@@ -212,3 +213,23 @@
 
 **Опублікувати повідомлення в course channel: JS Basics — #done**
 > Результат: [ссылка на сообщение](https://t.me/c/1382428271/47546)
+
+
+# DOM
+**Зробіть скріншот своїх завершених уроків**
+
+*Coursera*
+> <details>
+>   <summary>Using Javascript to Build Web Applications (Week 5)</summary>
+>   <img src="./task_js_dom/coursera.png"/>
+> </details>
+
+*FreeCodeCamp*
+> <details>
+>   <summary>Algorithm Scripting Challenges</summary>
+>   <img src="./task_js_dom/freecodecamp.png"/>
+> </details>
+
+**Практичне завдання: Впровадити інтерактивне side-menu**
+> [Demo](https://hisbvdis.github.io/kottans-frontend/pages/dom)
+> [Code](https://github.com/hisbvdis/kottans-frontend/pages/dom)
