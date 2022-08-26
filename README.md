@@ -13,6 +13,8 @@
 
 
 ## Git та GitHub
+[Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-intro.md)
+
 **1. Прослухайте тижні 1 і 2 курсу Introduction to Git and GitHub**
 > <details>
 >   <summary>Week 1</summary>
@@ -50,6 +52,8 @@
 
 
 ## Linux CLI, and HTTP
+[Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/linux-cli-http.md)
+
 **Додати скріншот або додати посилання на скріншот**
 > <details>
 >   <summary>Quiz 1</summary>
@@ -81,6 +85,7 @@
 
 
 ## Git Collaboration
+[Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-collaboration.md)
 
 **Зробіть скріншот своїх завершених уроків**
 
@@ -125,6 +130,8 @@
 
 
 ## Intro to HTML and CSS
+[Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-intro.md)
+
 **Додати скріншот або додати посилання на скріншот**
 
 *Coursera*
@@ -148,6 +155,8 @@
 
 
 ## Responsive Web Design
+[Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-responsive.md)
+
 **Додати скріншот або додати посилання на скріншот**
 > <details>
 >   <summary>FLEXBOX FROGGY</summary>
@@ -167,6 +176,8 @@
 
 
 ## HTML CSS Popup
+[Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-popup.md)
+
 **App має власний спеціальний проект/репозиторій**
 > Github: [https://github.com/hisbvdis/kottans-homework-html-css-popup](https://github.com/hisbvdis/kottans-homework-html-css-popup)
 
@@ -178,6 +189,8 @@
 
 
 ## JS Basics
+[Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-basics.md)
+
 **Зробіть скріншот своїх завершених уроків**
 
 *Coursera*
@@ -220,6 +233,8 @@
 
 
 ## DOM
+[Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-dom.md)
+
 **Зробіть скріншот своїх завершених уроків**
 
 *Coursera*
@@ -243,6 +258,8 @@
 
 
 ## Tiny JS World
+[Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-pre-oop.md)
+
 **Створіть a tiny JS world model**
 > - [Demo](https://hisbvdis.github.io/kottans-frontend/pages/a-tiny-JS-world/)
 > - [Code base](https://github.com/hisbvdis/kottans-frontend/tree/main/pages/a-tiny-JS-world)
