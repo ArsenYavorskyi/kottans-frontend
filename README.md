@@ -73,7 +73,7 @@
 > Некоторые вещи знал. Было полезно освежить
 
 **Опублікувати повідомлення в course channel: Linux CLI and HTTP — #done**
-> Результат: [ссылка на сообщение](https://t.me/c/1382428271/44138)
+> [Сообщение в Telegram](https://t.me/c/1382428271/44138)
 
 
 ## Git Collaboration
@@ -117,7 +117,7 @@
 > </details>
 
 **Опублікувати повідомлення в course channel**
-> Результат: [ссылка на сообщение](https://t.me/c/1382428271/46010)
+> [Сообщение в Telegram](https://t.me/c/1382428271/46010)
 
 
 ## Intro to HTML and CSS
@@ -140,7 +140,7 @@
 > </details>
 
 **Опублікувати повідомлення в course channel: Intro to HTML and CSS — #done**
-> Результат: [ссылка на сообщение](https://t.me/c/1382428271/46274)
+> [Сообщение в Telegram](https://t.me/c/1382428271/46274)
 
 
 ## Responsive Web Design
@@ -159,7 +159,7 @@
 > Много раз уже приходилось проходить эти игры.
 
 **Опублікувати повідомлення в course channel: Responsive Web Design — #done**
-> Результат: [ссылка на сообщение](https://t.me/c/1382428271/46283)
+> [Сообщение в Telegram](https://t.me/c/1382428271/46283)
 
 
 ## HTML CSS Popup
@@ -212,7 +212,7 @@
 > Очень интересно решать задачки с помощью функционала ES6
 
 **Опублікувати повідомлення в course channel: JS Basics — #done**
-> Результат: [ссылка на сообщение](https://t.me/c/1382428271/47546)
+> [Сообщение в Telegram](https://t.me/c/1382428271/47546)
 
 
 # DOM
@@ -231,5 +231,5 @@
 > </details>
 
 **Практичне завдання: Впровадити інтерактивне side-menu**
-> [Demo](https://hisbvdis.github.io/kottans-frontend/pages/dom)
-> [Code](https://github.com/hisbvdis/kottans-frontend/pages/dom)
+> - [Code](https://github.com/hisbvdis/kottans-frontend/tree/main/pages/dom)
+> - [Demo](https://hisbvdis.github.io/kottans-frontend/pages/dom)
