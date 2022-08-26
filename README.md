@@ -9,7 +9,7 @@
 - [x] [HTML CSS Popup](#html-css-popup)
 - [x] [JS Basics](#js-basics)
 - [x] [DOM](#dom)
-- [x] [Building a Tiny JS World](#building-a-tiny-js-world)
+- [x] [Tiny JS World](#tiny-js-world)
 
 
 ## Git та GitHub
@@ -216,7 +216,7 @@
 > [Сообщение в Telegram](https://t.me/c/1382428271/47546)
 
 
-# DOM
+## DOM
 **Зробіть скріншот своїх завершених уроків**
 
 *Coursera*
@@ -237,3 +237,12 @@
 
 **Для цього завдання вам знадобиться review коду**
 > [Pull request](https://github.com/kottans/frontend-2022-homeworks/pull/312)
+
+
+## Tiny JS World
+**Створіть a tiny JS world model**
+> - [Demo](https://hisbvdis.github.io/kottans-frontend/pages/a-tiny-JS-world/)
+> - [Code base](https://github.com/hisbvdis/kottans-frontend/tree/main/pages/a-tiny-JS-world)
+
+**Для цього завдання вам знадобиться review коду**
+> [Pull request](https://github.com/kottans/frontend-2022-homeworks/pull/317)
