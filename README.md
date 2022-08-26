@@ -43,7 +43,10 @@
 > Освежил некоторые знания по Git, но часть материала не удалось понять
 
 **6. Надішліть pull-request сюди Kottans/mock-repo пропонуючи зміни.**
-> Результат: [https://github.com/kottans/mock-repo/pull/1052](https://github.com/kottans/mock-repo/pull/1052)
+> [Pull request](https://github.com/kottans/mock-repo/pull/1052)
+
+**опублікуйте повідомлення в course channel: Git Basics — #done**
+> [Сообщение в Telegram](https://t.me/c/1382428271/48319)
 
 
 ## Linux CLI, and HTTP
@@ -171,7 +174,7 @@
 > Github Pages: [ссылка](https://hisbvdis.github.io/kottans-frontend/pages/html-css-popup/)
 
 **Для цього завдання вам знадобиться review коду**
-> Сделал PR: https://github.com/kottans/frontend-2022-homeworks/pull/247
+> [Pull request](https://github.com/kottans/frontend-2022-homeworks/pull/247)
 
 
 ## JS Basics
