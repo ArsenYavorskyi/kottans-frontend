@@ -9,6 +9,7 @@
 - [x] [HTML CSS Popup](#html-css-popup)
 - [x] [JS Basics](#js-basics)
 - [x] [DOM](#dom)
+- [x] [Building a Tiny JS World](#building-a-tiny-js-world)
 
 
 ## Git та GitHub
