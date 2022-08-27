@@ -187,6 +187,10 @@
 **Для цього завдання вам знадобиться review коду**
 > [Pull request](https://github.com/kottans/frontend-2022-homeworks/pull/247)
 
+**Work**
+> - [Demo](https://hisbvdis.github.io/kottans-frontend/pages/html-css-popup/)
+> - [Code base](https://github.com/hisbvdis/kottans-frontend/tree/main/pages/html-css-popup)
+
 
 ## JS Basics
 [Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-basics.md)
