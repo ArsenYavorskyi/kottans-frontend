@@ -191,6 +191,9 @@
 > - [Demo](https://hisbvdis.github.io/kottans-frontend/pages/html-css-popup/)
 > - [Code base](https://github.com/hisbvdis/kottans-frontend/tree/main/pages/html-css-popup)
 
+**опублікуйте повідомлення в course channel: HTML-CSS-Popup — #done**
+> [Сообщение в Telegram](https://t.me/c/1382428271/48379)
+
 
 ## JS Basics
 [Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-basics.md)
