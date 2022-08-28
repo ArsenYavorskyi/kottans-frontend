@@ -281,8 +281,8 @@
 [Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-oop.md)
 
 **Classic Frogger Game**
-> - [Demo](https://hisbvdis.github.io/kottans-frontend/pages/task_js_oop/)
-> - [Code base](https://github.com/hisbvdis/kottans-frontend/tree/main/pages/task_js_oop)
+> - [Demo](https://hisbvdis.github.io/kottans-frontend/pages/task-js-oop)
+> - [Code base](https://github.com/hisbvdis/kottans-frontend/tree/main/pages/task-js-oop)
 
 **Сodewars - зареєструйтеся, приєднайтеся до клану Kottans і досягніть 7 kyu.**
 > <details>
