@@ -1,6 +1,6 @@
 # KOTTANS-FRONTED
 
-## Tasks
+# Tasks
 - [x] [Git Basics](#git-та-github)
 - [x] [Linux CLI, and HTTP](#linux-cli-and-http)
 - [x] [Git Collaboration](#git-collaboration)
@@ -13,7 +13,7 @@
 - [x] [Object Oriented JS](#object-oriented-js)
 
 
-## Git та GitHub
+# Git та GitHub
 [Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-intro.md)
 
 **1. Прослухайте тижні 1 і 2 курсу Introduction to Git and GitHub**
@@ -52,7 +52,7 @@
 > [Сообщение в Telegram](https://t.me/c/1382428271/48319)
 
 
-## Linux CLI, and HTTP
+# Linux CLI, and HTTP
 [Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/linux-cli-http.md)
 
 **Додати скріншот або додати посилання на скріншот**
@@ -85,7 +85,7 @@
 > [Сообщение в Telegram](https://t.me/c/1382428271/44138)
 
 
-## Git Collaboration
+# Git Collaboration
 [Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-collaboration.md)
 
 **Зробіть скріншот своїх завершених уроків**
@@ -130,7 +130,7 @@
 > [Сообщение в Telegram](https://t.me/c/1382428271/46010)
 
 
-## Intro to HTML and CSS
+# Intro to HTML and CSS
 [Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-intro.md)
 
 **Додати скріншот або додати посилання на скріншот**
@@ -155,7 +155,7 @@
 > [Сообщение в Telegram](https://t.me/c/1382428271/46274)
 
 
-## Responsive Web Design
+# Responsive Web Design
 [Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-responsive.md)
 
 **Додати скріншот або додати посилання на скріншот**
@@ -176,7 +176,7 @@
 > [Сообщение в Telegram](https://t.me/c/1382428271/46283)
 
 
-## HTML CSS Popup
+# HTML CSS Popup
 [Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-popup.md)
 
 **App має власний спеціальний проект/репозиторій**
@@ -196,7 +196,7 @@
 > [Сообщение в Telegram](https://t.me/c/1382428271/48379)
 
 
-## JS Basics
+# JS Basics
 [Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-basics.md)
 
 **Зробіть скріншот своїх завершених уроків**
@@ -240,7 +240,7 @@
 > [Сообщение в Telegram](https://t.me/c/1382428271/47546)
 
 
-## DOM
+# DOM
 [Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-dom.md)
 
 **Зробіть скріншот своїх завершених уроків**
@@ -265,7 +265,7 @@
 > [Pull request](https://github.com/kottans/frontend-2022-homeworks/pull/312)
 
 
-## Tiny JS World
+# Tiny JS World
 [Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-pre-oop.md)
 
 **Створіть a tiny JS world model**
@@ -276,7 +276,7 @@
 > [Pull request](https://github.com/kottans/frontend-2022-homeworks/pull/317)
 
 
-## Object Oriented JS
+# Object Oriented JS
 
 [Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-oop.md)
 
