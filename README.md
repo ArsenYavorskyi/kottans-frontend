@@ -10,6 +10,7 @@
 - [x] [JS Basics](#js-basics)
 - [x] [DOM](#dom)
 - [x] [Tiny JS World](#tiny-js-world)
+- [x] [Object Oriented JS](#object-oriented-js)
 
 
 ## Git та GitHub
@@ -273,3 +274,24 @@
 
 **Для цього завдання вам знадобиться review коду**
 > [Pull request](https://github.com/kottans/frontend-2022-homeworks/pull/317)
+
+
+## Object Oriented JS
+
+[Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-oop.md)
+
+**Classic Frogger Game**
+> - [Demo](https://hisbvdis.github.io/kottans-frontend/pages/object-oriented-js/)
+> - [Code base](https://github.com/hisbvdis/kottans-frontend/tree/main/pages/object-oriented-js)
+
+**Сodewars - зареєструйтеся, приєднайтеся до клану Kottans і досягніть 7 kyu.**
+> <details>
+>   <summary>Скриншот</summary>
+>   <img src="./task_js_oop/codewars.png"/>
+> </details>
+
+**Для цього завдання вам знадобиться review коду**
+> [Pull request](https://github.com/kottans/frontend-2022-homeworks/pull/335)
+
+**опублікуйте повідомлення в course channel: Object Oriented JS — #done**
+> Сообщение в Telegram
