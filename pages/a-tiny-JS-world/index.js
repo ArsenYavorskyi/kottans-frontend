@@ -7,47 +7,63 @@
 
 // ======== OBJECTS DEFINITIONS ========
 // Define your objects here
-const dog = {
-  species: "dog",
-  name: "Snoop",
-  gender: "male",
-  legs: 4,
-  hands: 0,
-  saying: "Woof-woof",
-};
+class Creature {
+  constructor(species, name, gender, saying) {
+    this.species = species;
+    this.name = name;
+    this.gender = gender;
+    this.saying = saying;
+  }
 
-const cat = {
-  species: "cat",
-  name: "Kitty",
-  gender: "female",
-  legs: 4,
-  hands: 0,
-  saying: "Meow",
-};
+  getProps() {
+    return Object.getOwnPropertyNames(this).map((prop) => this[prop]);
+  }
+}
 
-const woman = {
-  species: "human",
-  name: "Bella",
-  gender: "female",
-  legs: 2,
-  hands: 2,
-  saying: "Where have you been?",
-};
+class Human extends Creature {
+  constructor(name, gender, saying) {
+    super("human", name, gender, saying);
+    this.hands = 2;
+    this.legs = 2;
+  }
+}
 
-const man = {
-  species: "human",
-  name: "Jack",
-  gender: "male",
-  legs: 2,
-  hands: 2,
-  saying: "Bring me some more beer",
-};
+class Woman extends Human {
+  constructor(name) {
+    super(name, "female", "Where have you been all night?");
+  }
+}
 
-const catWoman = cat;
-catWoman.name = "Woman-Cat";
-catWoman.legs = 2;
-catWoman.hands = 2;
+class Man extends Human {
+  constructor(name) {
+    super(name, "male", "Bring me some more beer");
+  }
+}
 
+class Animal extends Creature {
+  constructor(species, name, gender, saying) {
+    super(species, name, gender, saying);
+    this.species = species;
+    this.legs = 4;
+  }
+}
+
+class Dog extends Animal {
+  constructor(name, gender) {
+    super("dog", name, gender, "Woof-woof");
+  }
+}
+
+class Cat extends Animal {
+  constructor(name, gender) {
+    super("cat", name, gender, "Meow");
+  }
+}
+
+const dog = new Dog("Snoop", "male");
+const cat = new Cat("Kitty", "female");
+const woman = new Woman("Bella", "female");
+const man = new Man("Vasya", "male");
 
 // ======== OUTPUT ========
 /* Use print(message) for output.
@@ -68,10 +84,6 @@ catWoman.hands = 2;
    print('human; <strong>John</strong>; male; 2; 2; <em>Hello world!</em>; Rex, Tom, Jenny', 'div');
    */
 
+const inhabitants = [dog, cat, woman, man];
 
-const inhabitants = [dog, cat, woman, man, catWoman];
-
-inhabitants
-  .map((habitant) => Object.values(habitant))
-  .map((array) => array.join("; "))
-  .forEach((string) => print(string))
+inhabitants.forEach((instance) => print(instance.getProps()));

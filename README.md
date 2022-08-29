@@ -11,6 +11,7 @@
 - [x] [DOM](#dom)
 - [x] [Tiny JS World](#tiny-js-world)
 - [x] [Object Oriented JS](#object-oriented-js)
+- [x] [OOP Exercise](#oop-exercise)
 
 
 # Git та GitHub
@@ -300,4 +301,19 @@
 > [Pull request](https://github.com/kottans/frontend-2022-homeworks/pull/335)
 
 **опублікуйте повідомлення в course channel: Object Oriented JS — #done**
+> Сообщение в Telegram
+
+
+# OOP Exercise
+
+[Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-oop.md)
+
+**Удосконалюйте свій tiny JS world model**
+> - [Demo](https://hisbvdis.github.io/kottans-frontend/pages/a-tiny-JS-world)
+> - [Code base](https://github.com/hisbvdis/kottans-frontend/tree/main/pages/a-tiny-JS-world)
+
+**Для цього завдання вам знадобиться review коду**
+> [Pull request](https://github.com/kottans/frontend-2022-homeworks/pull/349)
+
+**опублікуйте повідомлення в course channel: OOP Exercise — #done**
 > Сообщение в Telegram
