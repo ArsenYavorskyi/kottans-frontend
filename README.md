@@ -264,6 +264,9 @@
 **Для цього завдання вам знадобиться review коду**
 > [Pull request](https://github.com/kottans/frontend-2022-homeworks/pull/312)
 
+**опублікуйте повідомлення в course channel: DOM — #done**
+> Сообщение в Telegram
+
 
 # Tiny JS World
 [Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-pre-oop.md)
@@ -274,6 +277,9 @@
 
 **Для цього завдання вам знадобиться review коду**
 > [Pull request](https://github.com/kottans/frontend-2022-homeworks/pull/317)
+
+**опублікуйте повідомлення в course channel: A Tiny JS World — #done**
+> Сообщение в Telegram
 
 
 # Object Oriented JS
