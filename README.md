@@ -370,3 +370,15 @@
 # Friends App
 
 [Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/friends-app.md)
+
+**Створіть невеличку сторінку пошуку друзів**
+> - [Demo](https://hisbvdis.github.io/kottans-frontend/pages/friends-app)
+> - [Code base](https://github.com/hisbvdis/kottans-frontend/tree/main/pages/friends-app)
+
+**Для цього завдання вам знадобиться review коду**
+
+> [Pull request](https://github.com/kottans/frontend-2022-homeworks/pull/367)
+
+**опублікуйте повідомлення в course channel: Friends App — #done**
+
+> Сообщение в Telegram
