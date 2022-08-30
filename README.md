@@ -12,6 +12,8 @@
 - [x] [Tiny JS World](#tiny-js-world)
 - [x] [Object Oriented JS](#object-oriented-js)
 - [x] [OOP Exercise](#oop-exercise)
+- [ ] [Offline Web Applications](#offline-web-applications)
+- [x] [Memory Pair Game](#memory-pair-game)
 
 
 # Git та GitHub
@@ -306,7 +308,7 @@
 
 # OOP Exercise
 
-[Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-oop.md)
+[Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-post-oop.md)
 
 **Удосконалюйте свій tiny JS world model**
 > - [Demo](https://hisbvdis.github.io/kottans-frontend/pages/a-tiny-JS-world)
@@ -316,4 +318,26 @@
 > [Pull request](https://github.com/kottans/frontend-2022-homeworks/pull/349)
 
 **опублікуйте повідомлення в course channel: OOP Exercise — #done**
+> Сообщение в Telegram
+
+
+# Offline Web Applications
+
+[Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/app-design-offline.md)
+
+> Пропустил
+
+
+# Memory Pair Game
+
+[Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/memory-pair-game.md)
+
+**У цьому розділі ви створите Memory - Pair Game**
+> - [Demo](https://hisbvdis.github.io/kottans-frontend/pages/memory-pair-game)
+> - [Code base](https://github.com/hisbvdis/kottans-frontend/tree/main/pages/memory-pair-game)
+
+**Для цього завдання вам знадобиться review коду**
+> [Pull request](https://github.com/kottans/frontend-2022-homeworks/pull/361)
+
+**опублікуйте повідомлення в course channel: Memory Pair Game — #done**
 > Сообщение в Telegram
