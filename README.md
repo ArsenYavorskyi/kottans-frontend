@@ -14,6 +14,9 @@
 - [x] [OOP Exercise](#oop-exercise)
 - [ ] [Offline Web Applications](#offline-web-applications)
 - [x] [Memory Pair Game](#memory-pair-game)
+- [ ] [Website Performance Optimization](#website-performance-optimization)
+- [x] [Friends App](#friends-app)
+
 
 
 # Git та GitHub
@@ -55,6 +58,7 @@
 > [Сообщение в Telegram](https://t.me/c/1382428271/48319)
 
 
+
 # Linux CLI, and HTTP
 [Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/linux-cli-http.md)
 
@@ -86,6 +90,7 @@
 
 **Опублікувати повідомлення в course channel: Linux CLI and HTTP — #done**
 > [Сообщение в Telegram](https://t.me/c/1382428271/44138)
+
 
 
 # Git Collaboration
@@ -133,6 +138,7 @@
 > [Сообщение в Telegram](https://t.me/c/1382428271/46010)
 
 
+
 # Intro to HTML and CSS
 [Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-intro.md)
 
@@ -158,6 +164,7 @@
 > [Сообщение в Telegram](https://t.me/c/1382428271/46274)
 
 
+
 # Responsive Web Design
 [Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-responsive.md)
 
@@ -179,6 +186,7 @@
 > [Сообщение в Telegram](https://t.me/c/1382428271/46283)
 
 
+
 # HTML CSS Popup
 [Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-popup.md)
 
@@ -197,6 +205,7 @@
 
 **опублікуйте повідомлення в course channel: HTML-CSS-Popup — #done**
 > [Сообщение в Telegram](https://t.me/c/1382428271/48379)
+
 
 
 # JS Basics
@@ -243,6 +252,7 @@
 > [Сообщение в Telegram](https://t.me/c/1382428271/47546)
 
 
+
 # DOM
 [Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-dom.md)
 
@@ -271,6 +281,7 @@
 > Сообщение в Telegram
 
 
+
 # Tiny JS World
 [Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-pre-oop.md)
 
@@ -283,6 +294,7 @@
 
 **опублікуйте повідомлення в course channel: A Tiny JS World — #done**
 > Сообщение в Telegram
+
 
 
 # Object Oriented JS
@@ -306,6 +318,7 @@
 > Сообщение в Telegram
 
 
+
 # OOP Exercise
 
 [Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-post-oop.md)
@@ -321,11 +334,13 @@
 > Сообщение в Telegram
 
 
+
 # Offline Web Applications
 
 [Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/app-design-offline.md)
 
 > Пропустил
+
 
 
 # Memory Pair Game
@@ -341,3 +356,17 @@
 
 **опублікуйте повідомлення в course channel: Memory Pair Game — #done**
 > Сообщение в Telegram
+
+
+
+# Website Performance Optimization
+
+[Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/app-design-performance.md)
+
+> Пропустил
+
+
+
+# Friends App
+
+[Страница задачи на GitHub](https://github.com/kottans/frontend/blob/2022_UA/tasks/friends-app.md)
