@@ -16,13 +16,13 @@ const Enemy = function(field, initialX, initialY, speed, player){
   this.y = initialY;
   this.speed = speed;
   this.player = player;
-  this.enemyHeight = 40;
-  this.enemyWidth = 83;
+  this.height = 40;
+  this.width = 83;
   this.field = field;
 }
 
 Enemy.prototype.update = function(dt) {
-  if (this.x >= this.field.height + this.enemyWidth) {
+  if (this.x >= this.field.width + this.width) {
     this.x = this.initialX;
   }
 
@@ -103,19 +103,23 @@ Player.prototype.reset = function () {
 
 const player = new Player(field);
 
-const generateRandomEnemies = (count) => {
+const generateRandomEnemies = (count, field) => {
   return Array(count)
     .fill()
     .map((_, i) => {
       const getRandom = (min, max) => Math.round(min - 0.5 + Math.random() * (max - min + 1));
-      const randomX = [-100, -200, -300][i <= 2 ? i : getRandom(0, 2)];
-      const randomY = [60, 140, 225][i <= 2 ? i : getRandom(0, 2)];
-      const randomSpeed = [200, 300, 400][i <= 2 ? i : getRandom(0, 2)];
-      return new Enemy(field, randomX, randomY, randomSpeed, player);
+      const startColumn = [-1, -2, -3][i <= 2 ? i : getRandom(0, 2)];
+      const row = [1, 2, 3][i <= 2 ? i : getRandom(0, 2)];
+      const speed = [200, 300, 400][i <= 2 ? i : getRandom(0, 2)];
+
+      const x = startColumn * field.cellWidth;
+      const y = row * field.cellHeight;
+      
+      return new Enemy(field, x, y, speed, player);
     });
 }
 
-const allEnemies = generateRandomEnemies(3);
+const allEnemies = generateRandomEnemies(3, field);
 
 document.addEventListener("keydown", (evt) => {
   const allowedCodes = {
