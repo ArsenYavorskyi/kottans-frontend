@@ -9,7 +9,7 @@ document.addEventListener("click", forStartBtn_onDocument_Click_Handler);
 boardGrid.addEventListener("click", forCardFront_onBoardGrid_Click_Handler);
 
 
-function changeGameSide() {
+function changeBoardSide() {
   boardInner.classList.toggle("flipper__inner--flipped");
 }
 
@@ -17,11 +17,8 @@ function changeGameSide() {
 function startNewGame() {
   boardGrid.innerHTML = "";
   renderGrid();
-
   const cardFlippers = Array.from(boardGrid.querySelectorAll(".flipper__inner"));
-
   cardFlippers.forEach((cardInner) => flipCard(cardInner));
-
   setTimeout(() => {
     cardFlippers.forEach((cardInner) => flipCard(cardInner));
   }, 2000);
@@ -37,13 +34,13 @@ function renderGrid() {
           <div class="card__side  card__side--front  flipper__side  flipper__side--front"  data-card-front>
             ?
           </div>
-          <div class="card__side  card__side--front  flipper__side  flipper__side--back">
+          <div class="card__side  card__side--back  flipper__side  flipper__side--back">
             <img class="card__img" src="img/${option}.png" width="100" height="100" alt="${option}"/>
           </div>
         </div>
       </li>`
     );
-  })
+  });
 }
 
 
@@ -53,11 +50,11 @@ function flipCard(cardInner) {
 
 
 function checkFlippedCards() {
-  score = score + 1;
+  score++;
 
   const isSame = flippedCards
-    .map((elem) => elem.querySelector(".card__img").alt)
-    .every((name, _, arr) => name === arr[0]);
+    .map((card) => card.querySelector(".card__img").src)
+    .every((src, _, arr) => src === arr[0]);
   
   setTimeout(() => {
     if (isSame) {
@@ -82,7 +79,7 @@ function checkGameOver() {
   );
 
   if (resolvedCards.length === options.length * 2) {
-    changeGameSide();
+    changeBoardSide();
 
     const boardFront = document.querySelector(".board__side--front");
     boardFront.innerHTML = `
@@ -111,16 +108,14 @@ function forCardFront_onBoardGrid_Click_Handler(evt) {
 function forStartBtn_onDocument_Click_Handler(evt) {
   if (!evt.target.matches("[data-start-btn]")) return;
 
-  changeGameSide();
+  changeBoardSide();
   startNewGame();
 }
 
 
-function shuffleArray(o) {
-  for (
-    var j, x, i = o.length;
-    i;
-    j = parseInt(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x
-  );
-  return o;
+function shuffleArray(array) {
+  return array
+    .map((value) => ({ value, sort: Math.random() }))
+    .sort((a, b) => a.sort - b.sort)
+    .map(({ value }) => value);
 };
