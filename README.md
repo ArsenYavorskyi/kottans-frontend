@@ -278,7 +278,7 @@
 > [Pull request](https://github.com/kottans/frontend-2022-homeworks/pull/312)
 
 **опублікуйте повідомлення в course channel: DOM — #done**
-> Сообщение в Telegram
+> [Сообщение в Telegram](https://t.me/c/1382428271/58687)
 
 
 
@@ -293,7 +293,7 @@
 > [Pull request](https://github.com/kottans/frontend-2022-homeworks/pull/317)
 
 **опублікуйте повідомлення в course channel: A Tiny JS World — #done**
-> Сообщение в Telegram
+> [Сообщение в Telegram](https://t.me/c/1382428271/58687)
 
 
 
@@ -315,7 +315,7 @@
 > [Pull request](https://github.com/kottans/frontend-2022-homeworks/pull/335)
 
 **опублікуйте повідомлення в course channel: Object Oriented JS — #done**
-> Сообщение в Telegram
+> [Сообщение в Telegram](https://t.me/c/1382428271/58687)
 
 
 
@@ -331,7 +331,7 @@
 > [Pull request](https://github.com/kottans/frontend-2022-homeworks/pull/349)
 
 **опублікуйте повідомлення в course channel: OOP Exercise — #done**
-> Сообщение в Telegram
+> [Сообщение в Telegram](https://t.me/c/1382428271/58687)
 
 
 
@@ -381,4 +381,4 @@
 
 **опублікуйте повідомлення в course channel: Friends App — #done**
 
-> Сообщение в Telegram
+> [Сообщение в Telegram](https://t.me/c/1382428271/58687)
